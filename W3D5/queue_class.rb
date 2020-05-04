@@ -1,4 +1,4 @@
-        class Queue
+class Queue
     def initialize
         @queue_array = []
     end
